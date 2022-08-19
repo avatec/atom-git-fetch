@@ -15,8 +15,6 @@ Use atom package manager to install atom-git-fetch.
 
 ## Usage
 
-![image](https://cloud.githubusercontent.com/assets/2035004/17414920/18ac3db6-5aa5-11e6-8604-60570794b2ee.png)
-
 * Open any file
 * Save file
 * Command git fetch will run in background
