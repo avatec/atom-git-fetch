@@ -1,0 +1,17 @@
+{
+  "name": "atom-git-fetch",
+  "main": "./lib/atom-git-fetch",
+  "version": "0.1.0",
+  "description": "Git fetcher on save for atom.",
+  "keywords": [
+    "atom",
+    "git",
+    "fetch"
+  ],
+  "repository": "https://github.com/avatec/atom-git-fetch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
